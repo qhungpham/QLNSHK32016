@@ -1,0 +1,13 @@
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.frmDangnhap.resources
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.frmMain.resources
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.Properties.Resources.resources
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.csproj.GenerateResource.Cache
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.exe.licenses
+E:\QLNS2016\QLNS2016\bin\Debug\QLNS2016.exe.config
+E:\QLNS2016\QLNS2016\bin\Debug\QLNS2016.exe
+E:\QLNS2016\QLNS2016\bin\Debug\QLNS2016.pdb
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.exe
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.pdb
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.frmPhongban.resources
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.csprojResolveAssemblyReference.cache
+E:\QLNS2016\QLNS2016\obj\Debug\QLNS2016.frmBophan.resources
